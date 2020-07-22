@@ -8,4 +8,4 @@
 #### 4. general forecatsing techniques
 #### 5. stationary and non-stationary (includes ACF & PACF)
 #### 6. ARIMA introduction (no code because ARIMA models are used at very specific conditions and it didn't suitable for real time data with different input attributes)
-#### 7. SARIMAX (real time model because it deals with X (input attributes as well))
+#### 7. SARIMAX (real time model because it deals with X (input attributes as well)
