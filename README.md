@@ -10,3 +10,5 @@
 #### 6. ARIMA introduction (no code because ARIMA models are used at very specific conditions and it didn't suitable for real time data with different input attributes)
 #### 7. SARIMA part 1
 #### 8. SARIMAX part 2 (real time model because it deals with X (input attributes as well)
+#### 9. VAR (vector autoregression) model
+#### 10. VARMA (vector auto regression moving averages) model
