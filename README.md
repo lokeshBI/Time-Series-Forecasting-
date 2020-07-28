@@ -12,3 +12,4 @@
 #### 8. SARIMAX part 2 (real time model because it deals with X (input attributes as well)
 #### 9. VAR (vector autoregression) model
 #### 10. VARMA (vector auto regression moving averages) model
+#### 11. Forecasting using RNNs (deep learning)
