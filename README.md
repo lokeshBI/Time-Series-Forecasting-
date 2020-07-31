@@ -1,7 +1,7 @@
 # Time-Series-Forecasting
 ### Fundamentally FORECASTING differ with PREDICTION so, it is really imporatant to understand the difference and application of it.
 ### This repo is dedicated to give you a basic and progressive idea of time series forecasting. Please follow the below order while reading the notebooks.
-### Note: I will update regularly for all topics.
+### Note: Please find "Time Series".pdf attachment for further reading...
 #### 1. introduction to time series 
 #### 2. EWMA (exponential weighted moving averages)
 #### 3. holt-winters method
